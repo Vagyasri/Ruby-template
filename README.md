@@ -15,14 +15,14 @@
 
 - [Copy this link](https://github.com/Vagyasri/FizzBuzz.git)
 - Open your terminal or command line
-- Run "git clone Paste [this link](https://github.com/Vagyasri/FizzBuzz.git)"
+- Run "git clone [Paste this link](https://github.com/Vagyasri/FizzBuzz.git)"
 
 ## Author
 
 👤 **Bhagyashree Patra**
 
 - GitHub: [@Vagyasri](https://github.com/Vagyasri)
-- Twitter: [@Vagyasri](https://twitter.com/Lucky86074644)
+- Twitter: [@Vagyasri](https://twitter.com/Vagyasri)
 - LinkedIn: [Bhagyashree Patra](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
 
 ## 🤝 Contributing
